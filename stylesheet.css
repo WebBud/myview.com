@@ -9,7 +9,7 @@ body {
 }
 
 header {
-  height: 65px;
+  height: 30px;
   width: 100%;
   background-color: rgba(34, 49, 52, 0.9);
 }
@@ -21,7 +21,7 @@ header {
 }
 
 .top {
-  padding: 100px 0 100px 0;
+  padding: 180px 0 100px 0;
   background-image: url("img01.jpg");
   background-size: cover;
   color: white;
@@ -41,14 +41,11 @@ header {
   margin-bottom: 3px;
 }
 
-.main {
-  background-color: lightyellow;
-}
 
 .numbers {
   padding-left: 15px;
   height: 20px;
-  background-color: lightblue;
+  background-color: #eee;
 }
 
 img {
@@ -59,12 +56,9 @@ img {
 
 }
 
-.images {
-  height: 500px;
-}
 
 .message {
-  background-color: lightgreen;
-  height: 100px;
-  margin-top: 100px;
+  background-color: #cfdccf;
+  height: 85px;
+  margin-top: 70px;
 }
