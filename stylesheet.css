@@ -22,7 +22,7 @@ header {
 
 .top {
   padding: 100px 0 100px 0;
-  background-image: url(https://prog-8.com/images/html/advanced/top_en.png);
+  background-image: url("img01");
   background-size: cover;
   color: white;
   text-align: center;
