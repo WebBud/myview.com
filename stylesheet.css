@@ -21,9 +21,9 @@ header {
 }
 
 .top {
-  padding: 180px 0 100px 0;
+  padding: 220px 0 100px 0;
   background-image: url("img02.jpg");
-  background-size: cover;
+  background-size: contain;
   color: white;
   text-align: center;
 
